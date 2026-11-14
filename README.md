@@ -7,9 +7,6 @@
 
 ## 🌟 Live Demo on GitHub Pages
 - **URL**: `https://vighnesh74-ui.github.io/ComProject/`
-- **Default Admin Login**:
-  - **Email**: `admin@medipulse.com`
-  - **Password**: `Admin@1234`
 
 ---
 
