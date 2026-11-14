@@ -14,7 +14,6 @@
 - **Elderly-Friendly UI**: High-contrast, clean typography, large touch buttons, and warm calming teal theme.
 - **15 Indian Languages Supported**:
   - English, Kannada (`ಕನ್ನಡ`), Hindi (`हिन्दी`), Tamil (`தமிழ்`), Telugu (`తెలుగు`), Malayalam (`മലയാളം`), Marathi (`मराठी`), Bengali (`বাংলা`), Gujarati (`ગુજરાતી`), Punjabi (`ਪੰਜਾਬੀ`), Odia (`ଓଡ଼ିଆ`), Assamese (`অসমীয়া`), Urdu (`اردو`), Konkani (`कोंकणी`), Sanskrit (`संस्कृतम्`).
-- **5 Registered Senior Citizens**: Authentic clinical profiles, room numbers, emergency contacts, conditions, and doctor details.
 - **Daily Medication Schedules**: Morning, Afternoon, Evening, and Night time slot rounds.
 - **Adherence Tracking**: One-touch "Mark as Given" and "Mark as Missed" with dosage verification.
 - **MediBot AI Assistant**: Instant elderly medication guide and resident navigation assistant.
